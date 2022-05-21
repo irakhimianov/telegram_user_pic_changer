@@ -1,0 +1,1 @@
+from .config import TG_API_ID, TG_API_HASH, OP_API_KEY
